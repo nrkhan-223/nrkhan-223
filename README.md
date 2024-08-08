@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrkhan-223&label=Profile%20views&color=0e75b6&style=flat" alt="nrkhan-223" /> </p>
 
-- 🌱 I’m currently learning **flutter,dart**
+- 🌱 I’m currently working in **flutter,dart**
 
 - 💬 Ask me about **android**
 
