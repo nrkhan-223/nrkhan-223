@@ -72,8 +72,8 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrkhan-223&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10&size_weight=0.5&count_weight=0.5&custom_title=Top%20Languages&hide_progress=false" 
-    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrkhan-223&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true&langs_count=8&custom_title=Top%20Tech" 
+    alt="Top Tech" 
   />
 </p>
 
