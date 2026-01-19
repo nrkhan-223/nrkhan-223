@@ -63,9 +63,10 @@
       <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=nrkhan-223&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       </td>
-    <td align="center" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrkhan-223&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</td>
+  <img 
+  src="https://streak-stats.demolab.com/?user=nrkhan-223&theme=tokyonight&hide_border=true&border_radius=10&date_format=M+j%5B%2C+Y%5D&mode=weekly" 
+  alt="GitHub Streak Stats"
+/>
     </tr>
   </table>
 </p>
