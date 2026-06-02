@@ -108,6 +108,12 @@
 > “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" alt="Footer"/>
