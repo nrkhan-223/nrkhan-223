@@ -61,26 +61,54 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=nrkhan-223&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrkhan-223&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       </td>
-  <td align="center" width="50%">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nrkhan-223&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</td>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com/?user=nrkhan-223&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
     </tr>
   </table>
 </p>
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrkhan-223&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true&langs_count=8&custom_title=Top%20Tech" 
-    alt="Top Tech" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrkhan-223&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true&langs_count=8&custom_title=Top%20Languages" 
+    alt="Top Languages" 
   />
 </p>
 
 ---
 
-### ✨ Random Dev Quote
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <table
+    border="0"
+    cellpadding="0"
+    cellspacing="0"
+    style="margin:auto;"
+  >
+    <tr>
+      <td align="center" style="padding:15px;">
+        <img
+          style="padding:15px;"
+          src="https://github-trophies.vercel.app/?username=nrkhan-223&theme=dracula&no-frame=true&row=2&column=4"
+          alt="GitHub Trophies"
+        />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+### ✨ Random Dev Quotes
 
 > “Talk is cheap. Show me the code.” – Linus Torvalds
 
 > “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" alt="Footer"/>
+</p>
