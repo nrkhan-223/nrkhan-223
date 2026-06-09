@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,riverpod,bloc,graphql,restapi,linux" alt="Additional tools"/>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,graphql,fastapi,linux" alt="Additional tools"/>
 </p>
 
 ---
