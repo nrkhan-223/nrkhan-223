@@ -49,12 +49,25 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrkhan-223&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nrkhan-223&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
   <img src="https://streak-stats.demolab.com/?user=nrkhan-223&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrkhan-223&layout=compact&theme=radical&hide_border=true&hide_progress=false&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrkhan-223&layout=compact&theme=radical&hide_border=true&hide_progress=false&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" width="60%"/>
+</p>
+
+---
+### 📈 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/238636/nrkhan-223" alt="GitHub Contribution Calendar" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrkhan-223&theme=radical" width="100%" alt="All Contributions Overview"/>
 </p>
 
 ---
@@ -68,6 +81,7 @@
 </p>
 
 ---
+
 
 ### 💡 Dev Wisdom
 
